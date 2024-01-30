@@ -1,0 +1,19 @@
+* {
+    color: black;
+}
+
+#heading {
+    color: blue;
+}
+
+.h-1 {
+    color: red;
+}
+
+h1 {
+    color: green !important;
+}
+
+h1 {
+    color: aqua;
+}

@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CSS Specificity</title>
+    <link rel="stylesheet" href="4.css">
+</head>
+
+<body>
+    <!-- CSS Specificity helps determine what style will be applied to the HTML element(s) when there are overlapping or multiple CSS rules -->
+    <!-- the cascade algorithm
+    1. Position and order of appearance: the order in which your CSS rules appear
+    2. Specificity: an algorithm that determines which CSS selector has the strongest match
+    3. Origin: the order in which CSS appears and where it comes from, whether that is a browser style, CSS from a browser
+    extension, or your authored CSS
+    4. Importance: some CSS rules are weighted more heavily than others, especially with the !important rule type
+    Lets look into all these one by one -->
+    <!-- order of specificity--
+    Inline Style > ID Selector > Class or Attribute Selector > Element Selector > Universal Selector -->
+
+    <!-- Guys follow then 4.css file  -->
+
+    <h1 id="heading" class="h-1" style="color: purple;">Code Empire </h1>
+</body>
+
+</html>
