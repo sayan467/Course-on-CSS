@@ -1,0 +1,15 @@
+#hex {
+    color: #1AF110;
+}
+
+#rgb {
+    color: rgb(46, 48, 138);
+}
+
+#rgba {
+    color: rgba(rgba(252, 5, 5, 0.945), green, blue, alpha);
+}
+
+#hsl {
+    color: hsl(50, 120, 40);
+}
