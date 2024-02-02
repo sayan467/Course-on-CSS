@@ -1,0 +1,23 @@
+.color h1{
+    background-color: red;
+}
+
+.color p{
+    background-color: violet;
+}
+
+.color span{
+    background-color: rgb(223, 184, 135);
+}
+div{
+    background-image: url('WhatsApp\ Image\ 2024-01-24\ at\ 11.41.34\ PM.jpeg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top right;
+    background-attachment: fixed;
+}
+
+/* shorthand command */
+/* div{
+    background: yellow fixed url('WhatsApp\ Image\ 2024-01-24\ at\ 11.41.34\ PM.jpeg') no-repeat right left;
+} */
