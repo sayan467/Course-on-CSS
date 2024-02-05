@@ -1,0 +1,25 @@
+/* img{
+    height: 200px;
+    width: 300px;
+    border-radius: 36px;
+} */
+
+/* image responsiveness */
+.image1 {
+    max-width: 300px;
+    height: auto;
+    /* opacity is the transparency of an image */
+    opacity: 0.8;
+    filter: grayscale(100%);
+    /* filter: brightness(80px); */
+    /* filter: contrast(20px); */
+    /* filter: invert(30px); */
+    /* filter: saturate(45%); */
+}
+
+.image2 {
+    width: fit-content(300px);
+    height: max-content(400px);
+    /* height: min-content(150px); */
+    filter: blur(2px);
+}
