@@ -1,0 +1,29 @@
+h1{
+    letter-spacing: 5px;
+    line-height: 10px;
+    text-shadow: 2px 2px 5px red;
+}
+
+#p1 {
+    text-decoration: underline;
+    text-align: left;
+    text-transform: uppercase;
+}
+
+#p2 {
+    text-decoration: overline;
+    text-align: right;
+    text-transform: uppercase;
+}
+
+#p3 {
+    text-decoration: line-through;
+    text-align: end;
+    text-transform: capitalize;
+}
+
+#p4 {
+    text-decoration: underline overline;
+    text-align: justify;
+    text-transform: none;
+}
