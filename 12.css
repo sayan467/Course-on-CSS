@@ -1,0 +1,12 @@
+.p1{
+    border: 2px solid brown;
+}
+
+.p2{
+    padding: 16px;
+    /* padding: 30px 50px; 
+                y-axis x-axis */
+    /* padding: 12px 30px 20px 34px;
+                top right bottom left */
+    border: 2px solid purple;
+}

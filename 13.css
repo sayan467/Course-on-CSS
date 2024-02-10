@@ -1,0 +1,12 @@
+.p1{
+    border: 2px solid green;
+}
+
+.p2{
+    margin: 14px;
+    /* margin: 20px 30px;
+            y-axis  x-axis */
+    /* margin: 20px 32px 24px 34px;
+            top     right   bottom  left */
+    border: 2px solid chocolate;
+}
