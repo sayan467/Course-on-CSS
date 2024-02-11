@@ -1,0 +1,15 @@
+#p1 {
+    color: red;
+}
+
+#p1:hover {
+    color: yellow;
+}
+
+#p2 {
+    background-color: blue;
+}
+
+#p2:hover {
+    background-color: antiquewhite;
+}
